@@ -1,1 +1,0 @@
-# Image-Recognition-Model-using-Teachable-Machine
